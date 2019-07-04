@@ -47,7 +47,7 @@ header{
 
 .sec1{
   text-align: center;
-  background: url(../Photos/Glass.jpg);
+  background: url(Photos/Glass.jpg);
   min-height: 100%;
   position: relative;
   background: cover;
